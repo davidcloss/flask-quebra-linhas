@@ -1,4 +1,4 @@
-#!/home/david/Documentos/GitHub/quebra_linhas_ten/QuebraLinhas/venv/bin/python3
+#!/home/david/Documentos/GitHub/flask-quebra-linhas/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

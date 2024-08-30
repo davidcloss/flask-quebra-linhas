@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/david/Documentos/GitHub/quebra_linhas_ten/QuebraLinhas/venv"
+set -gx VIRTUAL_ENV "/home/david/Documentos/GitHub/flask-quebra-linhas/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
